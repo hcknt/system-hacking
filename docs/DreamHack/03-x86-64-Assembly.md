@@ -16,6 +16,8 @@ I thought writing down all of x86-64 reference sheet is kinda pointless, so I'll
 - [Félix Cloutier's x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
+---
+
 ### Basic Structure
 
 x64's code consist of an instruction (operation code, opcode), which is equivalent to a verb, and an operand, which is equivalent to an object.
